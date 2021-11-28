@@ -108,3 +108,7 @@ a {
 a:hover {
   color: #524e4eff;
 }
+
+h1 a {
+  font-style: normal;   
+}  
