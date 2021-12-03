@@ -65,7 +65,7 @@ input, textarea, select {
 /* CSS */
 body {
   background-color: #ffeeeeff;
-  color: #171616;
+  color: #607d8b;
 
   font-family: "Cormorant Garamond";
 
@@ -102,11 +102,11 @@ section.text {
 a {
   font-style: italic;
   text-decoration: none;
-  color: #171616;
+  color: #939b9f;
 }
 
 a:hover {
-  color: #524e4eff;
+  color: #85a1af;
 }
 
 h1 a {
